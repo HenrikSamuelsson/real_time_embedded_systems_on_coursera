@@ -1,0 +1,3 @@
+2026-05-01T06:24:45.406065+02:00 rpi-3176 hello_thread[4655]: [COURSE:1][ASSIGNMENT:1] Linux rpi-3176 6.12.75+rpt-rpi-v8 #1 SMP PREEMPT Debian 1:6.12.75-1+rpt1~bookworm (2026-03-11) aarch64 GNU/Linux
+2026-05-01T06:24:45.406543+02:00 rpi-3176 hello_thread[4655]: [COURSE:1][ASSIGNMENT:1] Hello World from Main!
+2026-05-01T06:24:45.406894+02:00 rpi-3176 hello_thread[4655]: [COURSE:1][ASSIGNMENT:1] Hello World from Thread!
